@@ -17,12 +17,15 @@ Survey with 129880 responses and 4 features
 
 ## Algorithms:
 This is a classification problem
+1- EDA part: explore data, maintain columns name , handling Na values and outliers , Numeric and categorical data visualization
+2- Modeling part
 Trying different machine learning algorithms to find the best one for our problem :
 -Linear Regression 
 -Ridge Regression  
 -polynomial Regression 
 -Decision Tree 
 -Random Forest
+3- find the most features that affect passengers satisfaction
 
 
 ## Tools :
@@ -34,5 +37,3 @@ Trying different machine learning algorithms to find the best one for our proble
 
 2- Voila : Convert any Jupyter notebook into a website 
 link:https://voila.readthedocs.io/en/stable/
-
-3-BeakerX: includes widgets for interactive tables, plots, forms, Apache Spark, and more. The table widget automatically recognizes pandas dataframes and allows you to search, sort, drag, filter, format, select, graph, hide, pin, and export to CSV or clipboard. This makes connecting to spreadsheets quick and easy.

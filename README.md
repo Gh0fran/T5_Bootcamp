@@ -35,5 +35,4 @@ Trying different machine learning algorithms to find the best one for our proble
 2- Voila : Convert any Jupyter notebook into a website 
 link:https://voila.readthedocs.io/en/stable/
 
-3-BeakerX
-BeakerX includes widgets for interactive tables, plots, forms, Apache Spark, and more. The table widget automatically recognizes pandas dataframes and allows you to search, sort, drag, filter, format, select, graph, hide, pin, and export to CSV or clipboard. This makes connecting to spreadsheets quick and easy.
+3-BeakerX: includes widgets for interactive tables, plots, forms, Apache Spark, and more. The table widget automatically recognizes pandas dataframes and allows you to search, sort, drag, filter, format, select, graph, hide, pin, and export to CSV or clipboard. This makes connecting to spreadsheets quick and easy.
